@@ -22,7 +22,7 @@ public class Item {
     private double weight;
     // Getter/Setter方法
 }
-
+```
 
 #### 玩家背包系统
 ```mermaid
